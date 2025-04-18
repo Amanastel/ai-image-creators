@@ -1,0 +1,11 @@
+{
+  "id": "eb4a9857e9694a574902edfda79a6ed1",
+  "timestamp": "2025-04-16T23:31:18.974195",
+  "prompt": "a vibrant sunset over mountains",
+  "expanded_prompt": "A highly detailed, professional quality image of a vibrant sunset over mountains. Artistic style, vibrant colors, expressive brushstrokes, creative composition.",
+  "image_path": "outputs/image_20250416_233118.png",
+  "style": "artistic",
+  "width": 1024,
+  "height": 768,
+  "status": "success"
+}

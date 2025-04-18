@@ -1,0 +1,11 @@
+{
+  "id": "93538f3cb66b269df2683d348e2a3203",
+  "timestamp": "2025-04-16T23:33:12.341825",
+  "prompt": "a serene Japanese garden in spring with cherry blossoms, a small koi pond, and a traditional stone lantern",
+  "expanded_prompt": "A highly detailed, professional quality image of a serene Japanese garden in spring with cherry blossoms, a small koi pond, and a traditional stone lantern. Artistic style, vibrant colors, expressive brushstrokes, creative composition.",
+  "image_path": "outputs/image_20250416_233312.png",
+  "style": "artistic",
+  "width": 900,
+  "height": 600,
+  "status": "success"
+}
